@@ -36,6 +36,10 @@ __DISADVANTAGES:__
 
 The most famous Cryptocurrency that uses Proof of Stake is Ethereum.
 
+![](https://blockgeeks.com/wp-content/uploads/2017/03/infographics2017-01.png "Proof of Work vs Proof of Stake")
+
+
+
 ### Proof of authority
 Proof of authority delivers fast and immediate transactions through a consensus mechanism based on identity as a stake.
 
@@ -49,6 +53,10 @@ __ADVANTAGES__ for private networks:
 - it is not costly in terms of calculation
 
 New concept in the blockchain where you have a number of pre-approved authority nodes (sealers). When you want to add new node, it has to be voted by the currently approved set of authority nodes. This gives you full control over nodes which can seal blocks.
+
+
+![](https://cdn-images-1.medium.com/max/1600/0*tt7si90R3WpqWBd5. "Proof of Authority")
+
 
 In proof of authority the identity must be true, so we need to verify the validators and check if they are who they claim they are. Eligibility for staking identity should be difficult to obtain. The procedure of establishing the authority needs to be the same for all validators.
 
@@ -195,3 +203,7 @@ Exchange for real currencies is in discussion. Although we would like to create 
 [1] https://www.quora.com/What-determines-the-value-of-cryptocurrencies
 
 [2] https://www.chapman.edu/research/institutes-and-centers/economic-science-institute/_files/ifree-papers-and-photos/koeppel-april2017.pdf
+
+## Diagram
+
+![](https://i.imgur.com/kCAlPCq.png "PWrCoin Diagram")
